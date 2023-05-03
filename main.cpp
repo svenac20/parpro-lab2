@@ -1,8 +1,8 @@
 // 4 u nizu - glavni program
 #include <iostream>
 #include <ctime>
-using namespace std;
 #include "board.h" // razred za igracu plocu
+using namespace std;
 
 const int DEPTH = 6; // default dubina stabla
 

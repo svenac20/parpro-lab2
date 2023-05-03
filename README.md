@@ -1,2 +1,2 @@
-# parpro-lab2
+# Parpro-lab2
 Paralelno programiranje 2. laboratorijska vjezba

@@ -1,2 +1,2 @@
 # Parpro-lab2
-Paralelno programiranje 2. laboratorijska vjezba
+2nd laboratory exercise for Parallel programming class
